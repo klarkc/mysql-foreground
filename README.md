@@ -1,5 +1,5 @@
 # mysql-foreground
-It allows you to foreground official mysql image
+It allows you to foreground official mysql image. Use this with caution, only for dev enviroment (It can cause corruption on existing databases).
 
 ## Explanation
 
